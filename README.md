@@ -37,7 +37,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img src="https://i.imgur.com/KnGpuzuR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/nGpuzuR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
@@ -52,7 +51,6 @@ Once the OSticket install is complete, I started on configuring the Admin profil
 <p>
 On the homepage I will click on "Admin Panel" in the upper right hand corner it will open up the admins settings page and set up the admin details. Once that is done click on "Apply" to save the set up. After, I will click on the "Agent" tab and the "Roles" then "New Roles" tab set up Admin Roles and Permissons. 
 
-</p>
 <br />
 
 <p>
