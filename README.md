@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-Once the OSticket install is complete, I started on configuring the Admin profile. After that is complete, I logged into OSticket as the admin and it will open up to the homepage.
+After completing the installation of OSticket, I proceeded to configure the admin profile. I then logged in to OSticket as the admin, which led me to the homepage. I created departments by going to the "Admin Panel" and clicking on the "Departments" tab under the "Agents" section. From there, I selected "Add New Department" and gave it a name so that agents could submit and work on tickets. To assign agents to specific teams or levels, I created two teams named Level I and Level II support under the "Teams" tab in the admin panel. I also allowed anyone to create tickets by going to the "Settings" tab and unchecking the "Require registration and login to create tickets" box under the user's section.
 </p>
 <br />
 
@@ -49,6 +49,7 @@ Once the OSticket install is complete, I started on configuring the Admin profil
 <img src="https://i.imgur.com/EsyYSAD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
 On the homepage I will click on "Admin Panel" in the upper right hand corner it will open up the admins settings page and set up the admin details. Once that is done click on "Apply" to save the set up. After, I will click on the "Agent" tab and the "Roles" then "New Roles" tab set up Admin Roles and Permissons. 
 
 <br />
