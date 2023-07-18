@@ -59,6 +59,6 @@ Once the OSticket install is complete, I started configuring the admin profile. 
 <img src="https://imgur.com/issTz0u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, I began configuring the agents in the admin panel. To do this, I clicked on the "Agents" tab and selected "Add New Agent." I then filled out their name and assigned a password. Next, I assigned them to their respective departments and roles. After completing this, I proceeded to configure the users by navigating to the "Agent Panel" and selecting the "User" tab. From there, I clicked on "Add New User" and submitted their name and email information. Once this was done, I returned to the "Admin Panel" and clicked on the "Manage" tab. Under this tab, I selected "SLA" and clicked on "Add New SLA Plan." I set up three different levels, Sev A, B, and C, along with their respective resolution grace periods. Once the SLAs were established, I proceeded to configure the help topics under the admin panel. Under the "Manage" tab, I clicked on "Help Topics" and selected "Add New Topic." I created a title for the topic and saved my changes.
 </p>
 <br />
