@@ -37,10 +37,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img src="https://i.imgur.com/ChH6BrA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Once the OSTicketing system is installed. Next, is to configure the system and the roles in order to start submitting and resolving mock tickets. 
 </p>
 <p>
-
+Once the OSTicketing system is installed. I first configure the "Admin Panel". Next, is to configure the system and the roles in order to start submitting and resolving mock tickets. 
 
 </p>
 <br />
