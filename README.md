@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Department
 - Configure Teams (Level I or Level II)
 - Configure Agents and Permissions
-- Configure Users (Customers)
+- Configure Users 
 - Configure SLA Level
 - Configure Help Topics
 
